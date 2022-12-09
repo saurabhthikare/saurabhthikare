@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saurabhthikare
-- 👀 I’m interested in 
+- 👀 I’m interested in lerning new stuf
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
